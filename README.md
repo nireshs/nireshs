@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Niresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nireshs&count_private=true&show_icons=true&theme=prussian)](https://github.com/nireshs/github-readme-stats)
+[![Niresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nireshs&count_private=true&show_icons=true&theme=prussian)](https://github.com/nireshs/nireshs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nireshs&repo=github-readme-stats)](https://github.com/nireshs/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nireshs&repo=github-readme-stats&show_owner=true)](https://github.com/nireshs/github-readme-stats)
+[![Readme Card](https://github.com/nireshs/github-readme-stats?username=nireshs&repo=nireshs)](https://github.com/nireshs/nireshs)
+[![Readme Card](https://github.com/nireshs/github-readme-stats?username=nireshs&repo=nireshs&show_owner=true)](https://github.com/nireshs/nireshs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=nireshs&style=for-the-badge)
 
