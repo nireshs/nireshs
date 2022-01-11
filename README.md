@@ -1,16 +1,48 @@
 <p align="center">
- <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
  <h2 align="center"> Niresh GitHub Readme Stats</h2>
 </p>
   <p align="center">
-    <a href="https://github.com/nireshs/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/nireshs/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/nireshs/nireshs/actions/workflows/pylint.yml">
+      <img alt="Python Pytest CI" src="https://github.com/nireshs/nireshs/actions/workflows/pylint.yml/badge.svg" />
     </a>
-    <a href="https://github.com/nireshs/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/nireshs/myprojects2022/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/nireshs?color=0088ff" />
     </a>
-    <a href="https://github.com/nireshs/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/nireshs/myprojects2022/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/nireshs?color=0088ff" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/nireshs/myprojects2022/actions/workflows/python-app.yml">
+      <img alt="Python Pytest CI" src="https://github.com/nireshs/myprojects2022/actions/workflows/python-app.yml/badge.svg?branch=webapi_python" />
+    </a>
+    <a href="https://github.com/nireshs/myprojects2022/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/myprojects2022?color=0088ff" />
+    </a>
+    <a href="https://github.com/nireshs/myprojects2022/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/myprojects2022?color=0088ff" />
+    </a>
+</p>
+  <p align="center">
+    <a href="https://github.com/nireshs/myprojects2022/actions/workflows/webapi_jsjest.yml">
+      <img alt="JavaScript JEST CI" src="https://github.com/nireshs/myprojects2022/actions/workflows/webapi_jsjest.yml/badge.svg?branch=webapi_jsjest" />
+    </a>
+    <a href="https://github.com/nireshs/myprojects2022/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/myprojects2022?color=0088ff" />
+    </a>
+    <a href="https://github.com/nireshs/myprojects2022/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/myprojects2022?color=0088ff" />
+    </a>
+</p>
+  <p align="center">
+    <a href="https://github.com/nireshs/myprojects2022/actions/workflows/webapi_jssupertest.yml">
+      <img alt="JavaScript Supertest CI" src="https://github.com/nireshs/myprojects2022/actions/workflows/webapi_jssupertest.yml/badge.svg?branch=webapi_jssupertest" />
+    </a>
+    <a href="https://github.com/nireshs/myprojects2022/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/myprojects2022?color=0088ff" />
+    </a>
+    <a href="https://github.com/nireshs/myprojects2022/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/myprojects2022?color=0088ff" />
     </a>
     <br />
     <br />
@@ -31,10 +63,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Niresh's GitHub stats](https://github.com/nireshs/github-readme-stats?username=nireshs&count_private=true&show_icons=true&theme=prussian)](https://github.com/nireshs/nireshs)
-
-[![Readme Card](https://github.com/nireshs/github-readme-stats?username=nireshs&repo=nireshs)](https://github.com/nireshs/nireshs)
-[![Readme Card](https://github.com/nireshs/github-readme-stats?username=nireshs&repo=nireshs&show_owner=true)](https://github.com/nireshs/nireshs)
+[![Niresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nireshs&show_owner=true&count_private=true&show_icons=true&theme=prussian)](https://github.com/nireshs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=nireshs&style=for-the-badge)
 
