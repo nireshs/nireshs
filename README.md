@@ -76,3 +76,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=nireshs&style=for-the-badge)
 
+
+- 👯 I’m looking to collaborate on Python OpenSource Projects
+- 🤔 I’m looking for help with Contribution to Python Open Souce projects for begineers
+
