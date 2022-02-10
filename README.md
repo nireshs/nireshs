@@ -13,21 +13,44 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=nireshs&theme=rogue&hide_border=true&area=true&custom_title=Contribution%20Chart" alt="contribution-graph">
 </p>
 
+
 <p align="center">
- <h2 align="center"> Niresh GitHub Readme Stats</h2>
+ <h2 align="center"> Niresh GitHub Public Repo Stats</h2>
 
 </p>
   <p align="center">
     <a href="https://github.com/nireshs/pytest-html-reporter/actions/workflows/lint.yml">
       <img alt="pytest-html-reporter" src="https://github.com/nireshs/pytest-html-reporter/actions/workflows/lint.yml/badge.svg" />
     </a>
-    <a href="https://github.com/prashanth-sams/pytest-html-reporter/issues?q=involves%3Anireshs">
-      <img alt="Issues" src="https://img.shields.io/github/issues/prashanth-sams/pytest-html-reporter?q=involves%3Anireshs?color=0088ff" />
+     <a href="https://github.com/nireshs/pytest-html-reporter/issues?q=involves%3Anireshs">
+      <img alt="GitHub Open Issues" src="https://badgen.net/github/open-issues/nireshs/pytest-html-reporter?q=involves%3Anireshs?color=0088ff" />
     </a>
-    <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/pytest-html-reporter?q=involves%3Anireshs?color=0088ff" />
+     <a href="https://github.com/nireshs/pytest-html-reporter/issues?q=involves%3Anireshs">
+      <img alt="GitHub Closed Issues" src="https://badgen.net/github/closed-issues/nireshs/pytest-html-reporter?q=involves%3Anireshs?color=0088ff" />
+    </a>
+
+ <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
+      <img alt="GitHub Closed pull requests" src="https://badgen.net/github/closed-prs/nireshs/pytest-html-reporter?color=0088ff" />
+    </a>
+     <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
+      <img alt="GitHub Open pull requests" src="https://badgen.net/github/open-prs/nireshs/pytest-html-reporter?color=0088ff" />
+    </a>
+     <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
+      <img alt="GitHub Merged pull requests" src="https://badgen.net/github/merged-prs/nireshs/pytest-html-reporter?color=0088ff" />
+    </a>
+   </a>
+     <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
+      <img alt="GitHub Commits" src="https://badgen.net/github/commits/nireshs/pytest-html-reporter?color=0088ff" />
+    </a>
+     <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
+      <img alt="GitHub Last Commit" src="https://badgen.net/github/last-commit/nireshs/pytest-html-reporter?color=0088ff" />
     </a>
   </p>
+
+
+<p align="center">
+ <h2 align="center"> Niresh GitHub Private Repo Stats</h2>
+</p>
   <p align="center">
     <a href="https://github.com/nireshs/myprojects2022/actions/workflows/python-app.yml">
       <img alt="Python Pytest CI" src="https://github.com/nireshs/myprojects2022/actions/workflows/python-app.yml/badge.svg?branch=webapi_python" />
