@@ -18,8 +18,8 @@
     <a href="https://github.com/prashanth-sams/pytest-html-reporter/issues?q=involves%3Anireshs">
       <img alt="Issues" src="https://img.shields.io/github/issues/prashanth-sams/pytest-html-reporter/issues?q=involves%3Anireshs?color=0088ff" />
     </a>
-    <a href="https://github.com/prashanth-sams/pytest-html-reporter/pulls?q=involves%3Anireshs">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/pytest-html-reporter/issues?q=involves%3Anireshs?color=0088ff" />
+    <a href="https://github.com/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/pytest-html-reporter/pulls?q=involves%3Anireshs?color=0088ff" />
     </a>
   </p>
   <p align="center">
