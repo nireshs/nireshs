@@ -9,16 +9,17 @@
 
 <p align="center">
  <h2 align="center"> Niresh GitHub Readme Stats</h2>
+
 </p>
   <p align="center">
-    <a href="https://github.com/nireshs/nireshs/actions/workflows/pylint.yml">
-      <img alt="Python Pytest CI" src="https://github.com/nireshs/nireshs/actions/workflows/pylint.yml/badge.svg" />
+    <a href="https://github.com/nireshs/pytest-html-reporter/actions/workflows/lint.yml">
+      <img alt="pytest-html-reporter" src="https://github.com/nireshs/pytest-html-reporter/actions/workflows/lint.yml/badge.svg" />
     </a>
     <a href="https://github.com/nireshs/myprojects2022/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/nireshs?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/nireshs/pytest-html-reporter?color=0088ff" />
     </a>
     <a href="https://github.com/nireshs/myprojects2022/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/nireshs?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nireshs/pytest-html-reporter?color=0088ff" />
     </a>
   </p>
   <p align="center">
