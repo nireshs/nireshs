@@ -1,9 +1,3 @@
-![](https://github.com/nireshs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/nireshs/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://github.com/nireshs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/nireshs/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
-
 <!-- TOP LANG ICONS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,6 +24,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nireshshanmugam/)
 
 ---
+## 📈 GitHub Statistics
+![](https://github.com/nireshs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/nireshs/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://github.com/nireshs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/nireshs/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 ## 📈 GitHub Contribution Graph
 
