@@ -339,7 +339,7 @@ Enterprise-grade HTML reporting plugin for pytest with customizable templates an
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nireshs&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nireshs&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Graph
 
