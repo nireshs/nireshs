@@ -37,23 +37,67 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nireshs&theme=rogue&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
 </p>
 
----
-## 🧾 GitHub Public Repo Stats
+## 📦 PyPI Projects
 
 <p align="center">
-  <a href="https://github.com/nireshs/pytest-html-reporter">
-    <img alt="Lint Status" src="https://github.com/nireshs/pytest-html-reporter/actions/workflows/lint.yml/badge.svg"/>
+  <a href="https://pypi.org/project/pytest-html-dashboard/">
+    <img src="https://img.shields.io/pypi/v/pytest-html-dashboard.svg?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Version"/>
   </a>
-  <img alt="Open Issues" src="https://badgen.net/github/open-issues/nireshs/pytest-html-reporter"/>
-  <img alt="Closed Issues" src="https://badgen.net/github/closed-issues/nireshs/pytest-html-reporter"/>
-  <img alt="Open PRs" src="https://badgen.net/github/open-prs/nireshs/pytest-html-reporter"/>
-  <img alt="Closed PRs" src="https://badgen.net/github/closed-prs/nireshs/pytest-html-reporter"/>
-  <img alt="Merged PRs" src="https://badgen.net/github/merged-prs/nireshs/pytest-html-reporter"/>
-  <img alt="Commits" src="https://badgen.net/github/commits/nireshs/pytest-html-reporter"/>
-  <img alt="Last Commit" src="https://badgen.net/github/last-commit/nireshs/pytest-html-reporter"/>
+  <img src="https://img.shields.io/pypi/dm/pytest-html-dashboard.svg?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Downloads"/>
+  <img src="https://img.shields.io/pypi/pyversions/pytest-html-dashboard.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Versions"/>
+  <img src="https://img.shields.io/pypi/l/pytest-html-dashboard.svg?style=for-the-badge" alt="License"/>
+</p>
+
+<p align="center">
+  <strong>🎯 pytest-html-dashboard</strong> - Beautiful dashboard-style HTML reports for pytest with interactive charts, AI error analysis & real-time monitoring<br/>
+  <a href="https://github.com/nireshs/pytest-html-dashboard">
+    <img src="https://img.shields.io/github/stars/nireshs/pytest-html-dashboard?style=social" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/nireshs/pytest-html-dashboard/network/members">
+    <img src="https://img.shields.io/github/forks/nireshs/pytest-html-dashboard?style=social" alt="GitHub Forks"/>
+  </a>
+  <a href="https://github.com/nireshs/pytest-html-dashboard/watchers">
+    <img src="https://img.shields.io/github/watchers/nireshs/pytest-html-dashboard?style=social" alt="GitHub Watchers"/>
+  </a>
 </p>
 
 ---
+
+## 🧾 GitHub Repository Stats
+
+### 🎯 pytest-html-dashboard (v1.2.0 - Latest)
+<p align="center">
+  <a href="https://github.com/nireshs/pytest-html-dashboard/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/nireshs/pytest-html-dashboard/test.yml?branch=main&style=flat-square&label=tests&logo=github" alt="Tests"/>
+  </a>
+  <img src="https://img.shields.io/github/issues/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Open Issues"/>
+  <img src="https://img.shields.io/github/issues-closed/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Closed Issues"/>
+  <img src="https://img.shields.io/github/issues-pr/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Open PRs"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Closed PRs"/>
+  <img src="https://img.shields.io/github/commit-activity/m/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/last-commit/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/contributors/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Contributors"/>
+  <img src="https://img.shields.io/github/repo-size/nireshs/pytest-html-dashboard?style=flat-square&logo=github" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/languages/top/nireshs/pytest-html-dashboard?style=flat-square&logo=python" alt="Top Language"/>
+  <img src="https://img.shields.io/github/license/nireshs/pytest-html-dashboard?style=flat-square" alt="License"/>
+</p>
+
+### 📊 pytest-html-reporter
+<p align="center">
+  <a href="https://github.com/nireshs/pytest-html-reporter/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/nireshs/pytest-html-reporter/lint.yml?style=flat-square&label=lint&logo=github" alt="Lint"/>
+  </a>
+  <img src="https://img.shields.io/github/issues/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Open Issues"/>
+  <img src="https://img.shields.io/github/issues-closed/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Closed Issues"/>
+  <img src="https://img.shields.io/github/issues-pr/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Open PRs"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Closed PRs"/>
+  <img src="https://img.shields.io/github/commit-activity/m/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/last-commit/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/repo-size/nireshs/pytest-html-reporter?style=flat-square&logo=github" alt="Repo Size"/>
+</p>
+
+---
+
 
 ## 🔐 GitHub Private Repo Stats (Auto-Generated)
 
