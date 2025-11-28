@@ -185,7 +185,7 @@ Architecture: RESTful APIs • MVC Pattern • Microservices • Container Orche
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### 🎯 pytest-html-dashboard
 [![PyPI](https://img.shields.io/pypi/v/pytest-html-dashboard.svg?style=flat-square&logo=pypi)](https://pypi.org/project/pytest-html-dashboard/)
@@ -208,7 +208,49 @@ Beautiful dashboard-style HTML reports for pytest with **AI-powered error analys
 [📦 PyPI Package](https://pypi.org/project/pytest-html-dashboard/) • [⭐ GitHub](https://github.com/nireshs/pytest-html-dashboard)
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
+
+### 🎯 wifilyzer
+[![PyPI](https://img.shields.io/pypi/v/wifilyzer.svg?style=flat-square&logo=pypi)](https://pypi.org/project/wifilyzer/)
+[![Downloads](https://img.shields.io/pypi/dm/wifilyzer.svg?style=flat-square)](https://pypi.org/project/wifilyzer/)
+[![Stars](https://img.shields.io/github/stars/nireshs/wifilyzer?style=flat-square)](https://github.com/nireshs/wifilyzer)
+[![Python](https://img.shields.io/pypi/pyversions/wifilyzer.svg?style=flat-square)](https://pypi.org/project/wifilyzer/)
+
+**Complete WiFi 4/5/6/7 Analysis Platform** - Comprehensive packet analysis with 23 detection categories including security threats, beamforming, RRM features, QoS, power management, and more.
+
+
+**✨ Key Features / Core Analysis:**
+- File Information - PCAP metadata, packet counts, duration
+- WiFi Generation Detection - WiFi 4/5/6/7 identification
+- WiFi 6 Features - HE capabilities, BSS Color, TWT, OFDMA
+- Channel & PHY Layer - Channel usage, widths, frequency
+- Data Rates & Throughput - MCS rates, throughput calculation
+- Spatial Streams (MIMO) - MIMO configuration, stream counts
+- Network Topology - APs and clients identification
+- Management Frames - Beacons, probes, auth, assoc
+- Security Configuration - Encryption types, authentication
+- WiFi 7 Features - EHT capabilities, MLO, 320MHz channels
+- Roaming Analysis - Handoff detection, reassociation
+- DFS Channels - Radar detection, DFS compliance
+- Auto Channel Selection - Channel switching, optimization
+- Airtime Fairness - Client airtime distribution
+- Beamforming Analysis
+- Spatial Reuse (BSS Coloring)
+- Channel Interference
+- Client Capabilities
+- Security Analysis
+- Rogue Device Detection
+- RRM Features (802.11k/v/r)
+- QoS & WMM Analysis
+- Power Save Features
+- Issues & Recommendations - Problems detected, suggestions
+
+**Tech Stack:** Python • Wireshark • Scapy • tshark • aircrack-ng
+
+[📦 PyPI Package](https://pypi.org/project/wifilyzer/) • [⭐ GitHub](https://github.com/nireshs/wifilyzer)
+
+</td>
+<td width="30%" valign="top">
 
 ### 📊 pytest-html-reporter
 [![Stars](https://img.shields.io/github/stars/nireshs/pytest-html-reporter?style=flat-square)](https://github.com/nireshs/pytest-html-reporter)
@@ -243,6 +285,7 @@ Enterprise-grade HTML reporting plugin for pytest with customizable templates an
 | Package | Downloads | Stars | Status | Python Support |
 |---------|-----------|-------|--------|----------------|
 | [pytest-html-dashboard](https://pypi.org/project/pytest-html-dashboard/) | ![](https://img.shields.io/pypi/dm/pytest-html-dashboard?style=flat-square) | ![](https://img.shields.io/github/stars/nireshs/pytest-html-dashboard?style=flat-square) | ![](https://img.shields.io/pypi/v/pytest-html-dashboard?style=flat-square&logo=pypi) | ![](https://img.shields.io/pypi/pyversions/pytest-html-dashboard?style=flat-square) |
+| [wifilyzer](https://pypi.org/project/wifilyzer/) | ![](https://img.shields.io/pypi/dm/wifilyzer?style=flat-square) | ![](https://img.shields.io/github/stars/nireshs/wifilyzer?style=flat-square) | ![](https://img.shields.io/pypi/v/wifilyzer?style=flat-square&logo=pypi) | ![](https://img.shields.io/pypi/pyversions/wifilyzer?style=flat-square) |
 | [pytest-html-reporter](https://pypi.org/project/pytest-html-reporter/) | ![](https://img.shields.io/pypi/dm/pytest-html-reporter?style=flat-square) | ![](https://img.shields.io/github/stars/nireshs/pytest-html-reporter?style=flat-square) | ![](https://img.shields.io/pypi/v/pytest-html-reporter?style=flat-square&logo=pypi) | ![](https://img.shields.io/pypi/pyversions/pytest-html-reporter?style=flat-square) |
 
 ### 🌟 Open Source Impact
