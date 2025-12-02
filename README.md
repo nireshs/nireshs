@@ -185,7 +185,7 @@ Architecture: RESTful APIs • MVC Pattern • Microservices • Container Orche
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="25%" valign="top">
 
 ### 🎯 pytest-html-dashboard
 [![PyPI](https://img.shields.io/pypi/v/pytest-html-dashboard.svg?style=flat-square&logo=pypi)](https://pypi.org/project/pytest-html-dashboard/)
@@ -207,8 +207,40 @@ Beautiful dashboard-style HTML reports for pytest with **AI-powered error analys
 
 [📦 PyPI Package](https://pypi.org/project/pytest-html-dashboard/) • [⭐ GitHub](https://github.com/nireshs/pytest-html-dashboard)
 
+<td width="25%" valign="top">
+
+### 🎯 androidtv-framework
+[![Downloads](https://img.shields.io/pypi/dm/androidtv-framework.svg?style=flat-square)](https://pypi.org/project/androidtv-framework/)
+[![Stars](https://img.shields.io/github/stars/nireshs/androidtv-framework?style=flat-square)](https://github.com/nireshs/androidtv-framework)
+[![Python](https://img.shields.io/pypi/pyversions/androidtv-framework.svg?style=flat-square)](https://pypi.org/project/androidtv-framework/)
+
+Enterprise-grade automation framework for Android Set-Top Box testing with comprehensive web dashboard, database analytics, and CI/CD integration.
+
+**✨ Key Features:**
+- GenericCompany STB Testing: Android Set-Top Box automation with ADB integration
+- Comprehensive Test Reporting: HTML, Console, and Database storage
+- Custom Test Markers: TestCaseID, Bug tracking, Test suites, Descriptions, Remarks
+- Real-time Execution Tracking: Start/End timestamps with duration calculation
+- Failure Analysis: Detailed error logs and failure diagnostics
+- HTML Reports: Custom-designed with 13 detailed columns
+- Console Output: Professional pretty table format with synchronized data
+- MySQL Integration: Automatic database storage for historical tracking
+- Email Notifications: Automated result delivery to stakeholders
+- Interactive Frontend: Modern single-page dashboard with Chart.js visualizations (4,900+ lines)
+- FastAPI Backend: High-performance API server with automatic OpenAPI documentation
+- Real-time Analytics: Live test result monitoring with 230+ test records
+- Advanced Filtering: Execution ID, timeframe, project, ATV/release version filtering
+- Filter Transitions: Fixed execution ID → "All Executions" refresh issues
+- Chart Management: Comprehensive chart instance cleanup prevents rendering conflicts
+- Status Indicators: Real-time filter status display with debugging visibility
+- Multiple Chart Types: Pie charts, bar charts, line graphs, and time-series analysis
+- Corporate Branding: Professional GenericCompany-themed design with responsive layout
+- RESTful API: Complete REST API with 10+ endpoints for all dashboard data
+- Cross-Platform: Works on Windows, Linux, macOS with automated setup scripts
+
 </td>
-<td width="35%" valign="top">
+</td>
+<td width="25%" valign="top">
 
 ### 🎯 wifilyzer
 [![PyPI](https://img.shields.io/pypi/v/wifilyzer.svg?style=flat-square&logo=pypi)](https://pypi.org/project/wifilyzer/)
@@ -250,7 +282,7 @@ Beautiful dashboard-style HTML reports for pytest with **AI-powered error analys
 [📦 PyPI Package](https://pypi.org/project/wifilyzer/) • [⭐ GitHub](https://github.com/nireshs/wifilyzer)
 
 </td>
-<td width="30%" valign="top">
+<td width="25%" valign="top">
 
 ### 📊 pytest-html-reporter
 [![Stars](https://img.shields.io/github/stars/nireshs/pytest-html-reporter?style=flat-square)](https://github.com/nireshs/pytest-html-reporter)
